@@ -1,5 +1,5 @@
 # Tugas 2 Jarkom - Aplikasi Pengawasan Server
-(Server Surveillance Aplication)
+Computer Network Assignment 2 - Server Surveillance Aplication
 
 ## Description
 
@@ -11,7 +11,7 @@ This is an implementation of websocket in python. The client request information
 5. Internet connection status
 6. Access log
 
-This program made for computer network assignment.
+This program made for Computer Network course assignment.
 
 ## How to use
 
